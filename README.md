@@ -3,7 +3,7 @@
 
 Docente responsável: Luiz Tadeu Fernandes Eleno
 
-Proposta: Criação de um sistema inteligente de monitoramento de aglomeração (S.I.M.A.) utilizando o Python, 
+Proposta: Criação de um Sistema Inteligente de Monitoramento de Aglomeração (S.I.M.A.) utilizando o Python, 
 que detecta quando o distanciamento escolhido pelo usuário é violado.
 
 Inspiração: Pandemia causada pelo coronavírus.
