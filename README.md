@@ -1,5 +1,5 @@
 # Projeto - S.I.M.A
-##Projeto de curso da disciplina de Computação Científica em Python (LOM3260) - EEL/USP
+## Projeto de curso da disciplina de Computação Científica em Python (LOM3260) - EEL/USP
 
 Docente responsável: Luiz Tadeu Fernandes Eleno
 
